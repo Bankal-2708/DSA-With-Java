@@ -35,6 +35,18 @@ How can we use function :
   1) Regular / Concrete function
   2) Abstract Function : don't have body we use  class to use this where we declare its body
 
+
+  *** Methods Execution ***
+
+  When a method is called:
+
+  A new stack frame is added to the call stack to store method details.
+  The method runs its code.
+  After execution, the stack frame is removed, and control goes back to the calling method.
+  Java automatically manages the call stack using the Java Virtual Machine (JVM).
+
+ 
+
 ## Overloading 
 
   Compile time Polymorphism
@@ -191,6 +203,6 @@ If it has not been defined in our code.
         System.out.println(customerName + " ordered " + foodItem + " for Rs. " + price);
     }
   }
-  
+
   ```
 
