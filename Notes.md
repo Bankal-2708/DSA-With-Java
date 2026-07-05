@@ -206,3 +206,12 @@ If it has not been defined in our code.
 
   ```
 
+### Two Pointer 
+
+ Two Sum in Sorted Arrays, Closest Two Sum, Three Sum, Four Sum, Trapping Rain Water
+
+ *** when to use ***
+ 1) Sorted array
+ 2) Pairs or subarrays
+ 3) Sliding window problems 
+ 4) Linked-list 
