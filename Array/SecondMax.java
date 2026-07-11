@@ -1,3 +1,4 @@
+package Array;
 public class SecondMax {
 
   public int getSecondLargest(int[] arr) {
