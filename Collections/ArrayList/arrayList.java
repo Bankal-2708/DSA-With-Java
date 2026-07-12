@@ -2,6 +2,10 @@ package Collections.ArrayList;
 
 import java.util.*;
 
+// it allow dublicate values and maintain insertion order
+// it is not synchronized
+// store data in index based
+
 public class arrayList {
   public static void main(String[] args) {
 
