@@ -216,5 +216,10 @@ If it has not been defined in our code.
  3) Sliding window problems 
  4) Linked-list 
 
+## Set and Map
 
+*** Concept             Set version          Map versionNo  ***
+    No order            HashSet              HashMap
+    Insertion order     LinkedHashSet        LinkedHashMap
+    Sorted order        TreeSet              TreeMap
  
