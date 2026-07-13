@@ -21,5 +21,6 @@ public class Reverse {
     // Collections.reverse(list);
 
     System.out.println(list);
+    System.out.println(list.get(0));
   }
 }

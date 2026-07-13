@@ -1,7 +1,7 @@
 package Collections.HashMap;
 
 import java.util.HashMap;
-import java.util.LinkedHashMap;
+// import java.util.LinkedHashMap;
 
 public class RemoveDuplicate {
   public static void main(String[] args) {
