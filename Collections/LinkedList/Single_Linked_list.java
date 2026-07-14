@@ -1,5 +1,5 @@
 package Collections.LinkedList;
-import java.util.*;
+// import java.util.*;
 
 public class Single_Linked_list {
   Node head;
