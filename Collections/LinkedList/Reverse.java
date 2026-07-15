@@ -1,6 +1,6 @@
 package Collections.LinkedList;
 
-import java.util.*;
+// import java.util.*;
 
 import java.util.LinkedList;
 

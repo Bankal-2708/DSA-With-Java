@@ -1,3 +1,13 @@
+## Completed 
+
+  Array
+  ArrayList
+  Single Linked List
+  HashSet
+  TreeSet
+  HashMap
+  TreeMap
+
 ## Variable 
 
 Variable is a kind of a container that help us to store a data. variable have a data type, name & a value 
