@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Bankal-2708/DSA-With-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Bankal-2708/DSA-With-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
