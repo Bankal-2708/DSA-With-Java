@@ -14,8 +14,6 @@ class Solution {
         for (int f : freq) {
             if (f != 0) return false;
         }
-
         return true;
-
     }
 }
