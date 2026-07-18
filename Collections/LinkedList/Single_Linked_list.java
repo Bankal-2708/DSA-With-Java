@@ -39,15 +39,56 @@ public class Single_Linked_list {
   public void printList(){
    Node currNode = head;
     while (currNode != null) {
-      System.out.println(currNode.data + " -> ");
+      System.out.print(currNode.data + " -> ");
       currNode = currNode.next;
     }
     System.out.println("NULL");
   }
 
+  public void length(){
+    Node currNode = head;
+    int count = 0;
+
+    while (currNode != null) {
+      count++;
+      currNode = currNode.next;
+    }
+    System.out.println("Length of LL is "+ count);
+  }
+
+  public void search(){
+    Node currNode = head;
+    String target = "b";
+    int count = 0;
+    while (currNode != null) {
+      count++;
+      if (currNode.data == target) {
+        System.out.println("Target : "+ target +" found at position : " + count);
+      }
+      currNode = currNode.next;
+    }
+  }
+
+  public void deletFirst(){
+    Node currNode = head;
+
+    if (head == null) {
+      System.out.println("List is empty");
+      return;
+    }
+    head = currNode.next;
+  }
+
   public static void main(String[] args) {
     Single_Linked_list list = new Single_Linked_list();
+    list.addFirst("c");
+    list.addFirst("b");
     list.addFirst("a");
     list.printList();
+    list.length();
+    list.search();
+    // list.deletFirst();
+    // list.printList();
+
   }
 }
