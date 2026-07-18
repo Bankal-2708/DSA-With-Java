@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
 |  |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
@@ -46,4 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
