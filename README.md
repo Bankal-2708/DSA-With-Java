@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0643-maximum-average-subarray-i) |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0015-3sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
