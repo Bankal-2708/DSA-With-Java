@@ -2,16 +2,36 @@ package Sliding_Window;
 
 public class maxSubArray2 {
   public int maxSumArr(int[] arr) {
-    int currSum = arr[0];
-    int maxSum = arr[0];
+    int currSum = 0;
+    int maxSum = Integer.MIN_VALUE;
 
-    for (int i = 1; i < arr.length; i++) {
-      currSum += arr[i];
-      currSum = Math.max(arr[i], currSum);
-      maxSum = Math.max(maxSum, currSum);
+    int start = 0;
+    int maxStart = 0;
+    int end = 0;
+
+    for (int i = 0; i < arr.length; i++) {
+      if (arr[i] > currSum + arr[i]) {
+        currSum = arr[i];
+        start = i;
+      }else {
+        currSum += arr[i];
+      }
+
+      if (currSum > maxSum) {
+        maxSum = currSum;
+        maxStart = start;
+        end = i;
+      }
     }
-    return maxSum;
 
+    System.out.println("Elements are : ");
+    for (int i = maxStart; i <= end; i++) {
+      System.out.print(arr[i] + " ");
+    }
+    System.out.println();
+    System.out.print("Max Sum is : ");
+
+    return maxSum;
   }
 
   public static void main(String[] args) {
