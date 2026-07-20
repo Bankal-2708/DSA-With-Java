@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
