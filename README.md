@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bankal-2708/DSA-With-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -70,8 +71,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0092-reverse-linked-list-ii) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
