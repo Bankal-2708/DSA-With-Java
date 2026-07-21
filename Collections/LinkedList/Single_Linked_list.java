@@ -3,6 +3,12 @@ package Collections.LinkedList;
 
 public class Single_Linked_list {
   Node head;
+  int size = 0;
+
+  Single_Linked_list(int size){
+    this.size = 0;
+  }
+
   class Node {
     String data;
     Node next;
@@ -10,11 +16,15 @@ public class Single_Linked_list {
     Node(String data){
       this.data = data;
       this.next = null;
+      
     }
   }
 
+  
+
   public void addFirst(String data){
     Node newNode = new Node(data);
+    size++;
     if (head == null){
       head = newNode;
       return;
@@ -76,11 +86,38 @@ public class Single_Linked_list {
       System.out.println("List is empty");
       return;
     }
+    size--;
     head = currNode.next;
   }
 
+
+  public void deletLast(){
+    Node currNode = head;
+ 
+    if (head == null) {
+      System.out.println("List is empty");
+      return;
+    }
+    size--;
+
+    if (head.next == null) { // if LL is only 1 elements
+      head = null;
+      return;
+    }
+
+   while (currNode.next.next  != null) {
+    currNode = currNode.next;
+   }
+   
+   currNode.next = null;
+  }
+
+  public void getSize(){
+    System.out.println(size);
+  }
+
   public static void main(String[] args) {
-    Single_Linked_list list = new Single_Linked_list();
+    Single_Linked_list list = new Single_Linked_list(0);
     list.addFirst("c");
     list.addFirst("b");
     list.addFirst("a");
@@ -88,7 +125,10 @@ public class Single_Linked_list {
     list.length();
     list.search();
     // list.deletFirst();
-    // list.printList();
+    list.deletLast();
+    list.printList();
+    list.getSize();
+
 
   }
 }

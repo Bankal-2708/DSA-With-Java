@@ -14,14 +14,18 @@ public class Reverse {
     list.add(5);
 
     int size = list.size();
+    int left = 0;
+    int right = size - 1;
 
-    for (int i = 0; i < size; i++) {
-      int x = list.removeFirst();
-      int y = list.removeLast();
+    while (left < right){
+      int temp = list.get(left);
+      list.set(left, list.get(right));
+      list.set(right, temp);
 
-      list.addFirst(y);
-      list.addLast(x);
+      left++;
+      right--;
     }
+
     System.out.println(list);
   }
 }

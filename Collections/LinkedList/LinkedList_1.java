@@ -1,4 +1,5 @@
 package Collections.LinkedList;
+
 import java.util.*;
 
 // maintain insertion order
@@ -25,13 +26,13 @@ public class LinkedList_1 {
     al.add(1);
     al.add(2);
     al.add(3);
-    al.addFirst(0);
+    al.add(0, 0);
 
     Iterator<Integer> it = list.iterator();
 
-    while(it.hasNext()){
+    while (it.hasNext()) {
       int val = it.next();
-      if(val == 3){
+      if (val == 3) {
         it.remove();
       }
     }
