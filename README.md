@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0643-maximum-average-subarray-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bankal-2708/DSA-With-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -98,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
