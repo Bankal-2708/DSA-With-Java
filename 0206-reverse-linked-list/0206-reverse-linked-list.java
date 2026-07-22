@@ -14,25 +14,25 @@ class Solution {
             return head;
         }
 
-        // ListNode prevNode = head;
-        // ListNode currNode = head.next;
+       ListNode prev = head;
+       ListNode curr = head.next;
 
-        // while (currNode != null) {
-        //     ListNode nextNode = currNode.next;
+       while (curr != null) {
+        ListNode next = curr.next;
 
-        //     currNode.next = prevNode;
+        curr.next = prev;
+        prev = curr;
+        curr = next; 
+       }
+       head.next = null;
+       return prev;
 
-        //     prevNode = currNode;
-        //     currNode = nextNode;
-        // }
-        
-        // head.next = null;
-        // return prevNode;
+       // by recursion
 
-        ListNode newHead = reverseList(head.next);
-        head.next.next = head;
-        head.next = null;
+        //  ListNode newHead = reverseList(head.next);
+        //  head.next.next = head;
+        //  head.next = null;
 
-        return newHead;
+        //  return newHead;
     }
 }
