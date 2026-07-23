@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
