@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0724-find-pivot-index) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
