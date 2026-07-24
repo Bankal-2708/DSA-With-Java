@@ -1,3 +1,15 @@
+## TIME and SPACE Complexity
+
+Data Structure	      Search	      Insert	                  Delete	             Access
+Array	                  O(n)	      O(n)	                    O(n)	               O(1)
+ArrayList	              O(n)      	O(1) end / O(n) middle	  O(n)	               O(1)
+LinkedList	            O(n)      	O(1)	                    O(1) (at ends/known  O(n)
+                                                                node)	              
+HashMap	                O(1)	      O(1)	                    O(1)	               O(1) by key
+HashSet	                O(1)	      O(1)	                    O(1)	               —
+TreeMap	                O(log n)	  O(log n)	                O(log n)	           O(log n)
+TreeSet	                O(log n)	  O(log n)	                O(log n)	           -
+
 ## Completed 
 
   Array
@@ -7,6 +19,9 @@
   TreeSet
   HashMap
   TreeMap
+  Sliding window
+  Two pointer
+  
 
 ## Variable 
 
