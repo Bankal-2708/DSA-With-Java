@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sliding Window
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
