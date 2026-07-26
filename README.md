@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -76,19 +77,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1480-running-sum-of-1d-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
