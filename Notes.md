@@ -10,6 +10,33 @@ HashSet	                O(1)	      O(1)	                    O(1)	               
 TreeMap	                O(log n)	  O(log n)	                O(log n)	           O(log n)
 TreeSet	                O(log n)	  O(log n)	                O(log n)	           -
 
+
+## When which algo 
+
+Pattern : Sliding Window
+
+Used When
+
+- Fixed size window
+- Maximum sum
+- Minimum sum
+- Continuous subarray
+
+Keywords
+
+window
+continuous
+substring
+maximum
+minimum
+
+Questions
+
+✓ Maximum Sum
+✓ Maximum Average
+✓ Fruits Into Basket
+✓ Longest Substring
+
 ## Completed 
 
   Array

@@ -16,6 +16,7 @@ public class QuickSort { // Quick Sort is a Divide and Conquer sorting algorithm
 
     for (int j = low; j < high; j++) { // not from 0 to arr.length bcz it run for every sub array not for entire array
       if (arr[j] < pivot) {
+        
         i++;
 
         int temp = arr[i];

@@ -7,13 +7,13 @@ public class SelectionSort { // take first element and compare it with all eleme
     int[] arr = { 9, 5, 3, 1, 2, 4, 6, 8, 7 };
 
     for (int i = 0; i < arr.length; i++) {
-      int min = i;
-      for (int j = i + 1; j < arr.length; j++) {
+      int min = i;     // Assume current index has the minimum element
+      for (int j = i + 1; j < arr.length; j++) {     // Find the smallest element in the remaining array
         if (arr[min] > arr[j]) {
           min = j;
         }
       }
-      if (min != i) {
+      if (min != i) {     // Swap only if a smaller element was found
         int temp = arr[min];
         arr[min] = arr[i];
         arr[i] = temp;

@@ -22,99 +22,108 @@ public class Single_Linked_list {
 
   
 
-  public void addFirst(String data){
-    Node newNode = new Node(data);
-    size++;
-    if (head == null){
-      head = newNode;
-      return;
-    }
-    newNode.next = head;
-    head = newNode;
-  }
+   public void addFirst(String data){
+      Node newNode = new Node(data);
 
-  public void addLast(String data){
-    Node newNode = new Node(data);
-    if(head == null){
-      head = newNode;
-      return;
-    }
-    Node currNode = head;
-    while (currNode.next != null) {
-      currNode = currNode.next;
-    }
-    currNode.next = newNode;
-  }
-
-  public void printList(){
-   Node currNode = head;
-    while (currNode != null) {
-      System.out.print(currNode.data + " -> ");
-      currNode = currNode.next;
-    }
-    System.out.println("NULL");
-  }
-
-  public void length(){
-    Node currNode = head;
-    int count = 0;
-
-    while (currNode != null) {
-      count++;
-      currNode = currNode.next;
-    }
-    System.out.println("Length of LL is "+ count);
-  }
-
-  public void search(){
-    Node currNode = head;
-    String target = "b";
-    int count = 0;
-    while (currNode != null) {
-      count++;
-      if (currNode.data == target) {
-        System.out.println("Target : "+ target +" found at position : " + count);
+      if (head == null) {
+        head = newNode;
+        return;
       }
-      currNode = currNode.next;
-    }
-  }
-
-  public void deletFirst(){
-    Node currNode = head;
-
-    if (head == null) {
-      System.out.println("List is empty");
-      return;
-    }
-    size--;
-    head = currNode.next;
-  }
-
-
-  public void deletLast(){
-    Node currNode = head;
- 
-    if (head == null) {
-      System.out.println("List is empty");
-      return;
-    }
-    size--;
-
-    if (head.next == null) { // if LL is only 1 elements
-      head = null;
-      return;
+      newNode.next = head;
+      head = newNode;
     }
 
-   while (currNode.next.next  != null) {
-    currNode = currNode.next;
-   }
-   
-   currNode.next = null;
-  }
+     public void addAfter(String data){
+      Node newNode = new Node(data);
+      if (head == null) {
+        head = newNode;
+        return;
+      }
+      String target = "c";
+      Node currNode = head;
+      while (currNode.data != target){
+        currNode = currNode.next;
+      }
+      currNode.next = newNode;
+    }
 
-  public void getSize(){
-    System.out.println(size);
-  }
+    public void addLast(String data){
+      Node newNode = new  Node(data);
+      if (head == null) {
+        head = newNode;
+        return;
+      }
+      Node currNode = head;
+      while (currNode.next != null){
+        currNode = currNode.next;
+      }
+      currNode.next = newNode;
+    }
+
+    public void deletfirst(){
+      if (head == null ) {
+        System.out.println(head);
+        return;
+      }
+      
+      head = head.next;
+
+      // Node currNode = head;
+      // head = currNode.next;
+       
+
+    }
+
+    public void deletLast(){
+     
+      if (head == null){
+        System.out.print("List is already empty");
+        return;
+      }
+      if (head.next == null){
+        head = null;
+        System.out.print("List is empty, now");
+        return;
+      }
+      Node prev = head;
+      Node currNode = head.next;
+
+      while (currNode.next != null) {
+        prev = currNode;
+        currNode = currNode.next;
+      }
+      prev.next = null;
+    }
+
+    public void reverse() {
+
+      if (head == null && head.next == null) {
+        System.out.println(head);
+        return;
+      }
+      
+      Node prevNode = head;
+      Node currNode = head.next;
+
+      while (currNode != null) {
+        Node nextNode = currNode.next;
+
+        currNode.next = prevNode;
+        prevNode = currNode;
+        currNode = nextNode;
+      }
+      head.next = null;
+      head = prevNode;
+    }
+
+    public void printList(){
+        Node currNode = head;
+        while (currNode != null) {
+          System.out.print(currNode.data + " -> ");
+          currNode = currNode.next;
+        }
+        System.out.println("Null");
+      }
 
   public static void main(String[] args) {
     Single_Linked_list list = new Single_Linked_list(0);
@@ -122,12 +131,12 @@ public class Single_Linked_list {
     list.addFirst("b");
     list.addFirst("a");
     list.printList();
-    list.length();
-    list.search();
+    // list.length();
+    // list.search();
     // list.deletFirst();
     list.deletLast();
     list.printList();
-    list.getSize();
+    // list.getSize();
 
 
   }

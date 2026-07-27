@@ -1,5 +1,7 @@
 package Sliding_Window;
 
+// lengtn k is given and we have to find the maximum sum of k length consecutive elements in the array
+
 public class MaxSum {
 
   public int maxSum(int[] arr, int k) {

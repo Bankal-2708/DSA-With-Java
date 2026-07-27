@@ -7,15 +7,19 @@ public class InsertionSort {
   public static void main(String[] args) {
     int[] arr = { 9, 5, 3, 1, 2, 4, 6, 8, 7 };
 
-    for (int i = 1; i < arr.length; i++) {  // it will take the first element and compare it with all elements to left side and swap with the smallest element
-      int temp = arr[i];
-      int j = i - 1;  
+    for (int i = 1; i < arr.length; i++) { // it will take the first element and compare it with all elements to left
+                                           // side and swap with the smallest element
+      int temp = arr[i]; // Store the current element
 
-      while (j >= 0 && arr[j] > temp) { // it will check the current element is greater than the next element and swap them
+      int j = i - 1; // Start comparing with the previous element
+
+      while (j >= 0 && arr[j] > temp) { // Shift all larger elements one position to the right
         arr[j + 1] = arr[j];
         j--;
       }
-      arr[j + 1] = temp;
+      
+      arr[j + 1] = temp; // Insert temp at its correct position
+
     }
 
     System.out.println(Arrays.toString(arr));

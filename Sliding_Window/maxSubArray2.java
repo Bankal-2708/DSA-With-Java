@@ -1,5 +1,7 @@
 package Sliding_Window;
 
+// This is the implementation of Kadane's algorithm to find the maximum sum of a contiguous subarray in an array of integers.
+
 public class maxSubArray2 {
   public int maxSumArr(int[] arr) {
     int currSum = 0;

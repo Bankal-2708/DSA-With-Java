@@ -54,7 +54,7 @@ public class ReverseLL {
     }
     System.out.println("NULL");
   }
-
+  
   public static void main(String[] args) {
     ReverseLL list = new ReverseLL();
     list.addFirst(2);
