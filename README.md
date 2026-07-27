@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bankal-2708/DSA-With-Java/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bankal-2708/DSA-With-Java/tree/master/1480-running-sum-of-1d-array) |
