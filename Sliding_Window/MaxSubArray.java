@@ -6,7 +6,7 @@ public class MaxSubArray {
 
   public int maxSub(int[] arr, int target) {
 
-    HashMap<Integer, Integer> map = new HashMap<>();
+    HashMap<Integer, Integer> map = new HashMap<>();  // Stores <prefixSum, firstIndex>
 
     int sum = 0;
     int maxLen = 0;
@@ -14,13 +14,13 @@ public class MaxSubArray {
     for (int i = 0; i < arr.length; i++) {
       sum += arr[i];
 
-      while (sum == target) {
+      while (sum == target) { //If prefix sum itself equals target, then subarray starts from index 0
         maxLen = i + 1;
       }
 
-      if (map.containsKey(sum - target)) {
-        int len = i - map.get(sum - target);
-        maxLen = Math.max(maxLen, len);
+      if (map.containsKey(sum - target)) { // Check if there exists a previous prefix sum, such that (currentSum - previousSum = target)
+        int len = i - map.get(sum - target); // Length of the required subarray
+        maxLen = Math.max(maxLen, len); 
       }
       if (!map.containsKey(sum)) {
         map.put(sum, i);
